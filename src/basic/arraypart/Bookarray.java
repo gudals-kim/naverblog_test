@@ -1,7 +1,7 @@
 package basic.arraypart;
 
 public class Bookarray {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Book library[] = new Book[5];
         Book library2[] = new Book[5];
         library[0] = new Book("토지","박경리");
