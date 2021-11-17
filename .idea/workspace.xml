@@ -10,6 +10,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -28,7 +35,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StudentTest">
     <configuration name="Bookarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.arraypart.Bookarray" />
       <module name="naverblog_test" />
@@ -42,8 +49,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.arraypart.StudentTest" />
+      <module name="naverblog_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.arraypart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.Bookarray" />
       </list>
     </recent_temporary>
@@ -57,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1636544617599</updated>
       <workItem from="1636544620555" duration="186000" />
-      <workItem from="1636544826545" duration="199000" />
+      <workItem from="1636544826545" duration="1387000" />
+      <workItem from="1637129811951" duration="2737000" />
     </task>
     <servers />
   </component>
